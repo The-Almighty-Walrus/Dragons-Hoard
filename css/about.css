@@ -1,0 +1,13 @@
+.backgroundimg{
+    background-image: url(../img/dragon_treasure_by_rusty001_d2y5y1y.jpg) !important;
+    background-position: center;
+    background-size:cover;
+
+}
+.primarycolour{
+    background-color:#731018;
+    color:	#ddaf27;
+}
+body{
+    background-color: #400808 !important;
+}
